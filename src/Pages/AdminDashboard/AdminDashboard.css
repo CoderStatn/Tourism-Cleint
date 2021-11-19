@@ -1,0 +1,11 @@
+.list-style{
+    background-color: #126DA7;
+    height: 300px;
+  }
+
+.list-style ul li{
+    list-style: none;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+  }
